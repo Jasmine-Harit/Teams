@@ -1,0 +1,6 @@
+roles:
+- name: member
+  github:
+    users: ["my-github-login"]
+    orgs: ["my-org"]
+    teams: ["my-other-org:my-team"]
