@@ -1,0 +1,4 @@
+roles:
+- name: member
+  local:
+    users: ["some_username"]
